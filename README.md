@@ -1,4 +1,4 @@
-# Identity Lifecycle Management (Joiner–Mover–Leaver)
+# Identity Lifecycle Management 
 
 ## Overview
 This project explores how user access is managed throughout an employee’s lifecycle using Microsoft Entra ID. I focused on the practical, day-to-day steps involved in onboarding users, updating access when roles change, and removing access when someone leaves an organization.
